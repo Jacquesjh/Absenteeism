@@ -1,2 +1,2 @@
 # Absenteeism
-A neural network model for predicting the future absence of an employee based on previous absenteesim records
+An logistical regression analysis to predict the probability of excessive absestence of a particular indivíduo based on previous absenteeism records
